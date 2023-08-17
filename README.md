@@ -19,11 +19,11 @@ Objetivo: Desarrollar un clasificador bayesiano para clasificar dos tipos de flo
 ### Distribución de las mediciones
 
 <p align="center">
-  <img src="distribución_petal.png" alt="distribución petal" width="400">
+  <img src="distribution_petal.png" alt="distribución petal" width="400">
 </p>
 <p align="center"> Figura 1. Distribución petal. </p>
 
 <p align="center">
-  <img src="distribución_sepal.png" alt="distribución sepal" width="400">
+  <img src="distribution_sepal.png" alt="distribución sepal" width="400">
 </p>
 <p align="center"> Figura 1. Distribución sepal. </p>
